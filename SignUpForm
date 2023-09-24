@@ -1,0 +1,14 @@
+<form>
+  <input type="text" id="email" name="email" /><label for="email">Email</label><br>
+  <input type="text" id="password" name="password" /><label for="password">Password</label><br>
+  <input type="text" id="username">Username</input><br>
+  <fieldset>
+    <legend>
+      Select a subscription choice:
+    </legend>
+    <input type="radio" id="enterprise" name="enterprise" checked /><label for="enterprise">Enterprise</label>
+    <input type="radio" id="pro" name="pro" /><label for="enterprise">Pro</label>
+    <input type="radio" id="free" name="free" /><label for="free">Free</label>
+  </fieldset>
+  <input type="checkbox" id="remember" name="remember" checked /><label for="remember">Remember Me?</label>
+</form>
