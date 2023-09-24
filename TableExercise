@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>Favorites</head>
+  <table>
+    <thead>
+      <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Favorite Animal</th>
+      </tr>
+    </thead>
+      <tr>
+     <td>Trevor</td>
+     <td>Jones</td>
+     <td>Wolf</td>
+      </tr>
+  </table>
+  <a href="file://wsl%24/Ubuntu/home/trevatheruiner/projects/html-exercise/index.html">Index page</a>
+</html>
