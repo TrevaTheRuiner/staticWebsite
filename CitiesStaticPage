@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <title>First Page Ever</title>
+  </head>
+  <body>
+    <h1>Unordered List of Cities I have visited</h1>
+    <p>I originally lived in Oregon, so that was the first city I came to visit.
+      My favorite place to visit was Los Angeles, because of Disney Land!
+      I am currently living near Denver, and visit it for the Airport and shopping.
+    </p>
+    <div>
+      <ul>
+        <li>Los Angeles<span>: I like Disney!</span></li>
+        <li>Portland<span>: I recruited here in the Army</span></li>
+        <li>Denver<span>: I live near here now!</span></li>
+      </ul>
+    </div>
+    <h2>Ordered List of Cities I have visited</h2>
+    <div>
+      <ol>
+        <li><strong>Los Angeles</strong></li>
+        <li><em>Portland</em></li>
+        <li><strong>Denver</strong></li>
+      </ol>
+    </div>
+    <div>
+      <img
+      class="fit-picture"
+      src="https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg"
+      alt="Grapefruit slice atop a pile of other slices"
+    />
+    </div>
+    <div>
+      <figure>
+        <figcaption>The sound of a T-Rex!</figcaption>
+        <audio controls src="https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3">
+          <a href="https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3">
+            Download audio </a>
+        </audio>
+      </figure>
+      <video controls width="250">
+        <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"
+        type="video/webm" />
+        <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"
+        tpye=""video/mp4" />
+
+        Download the
+        <a href="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"WEBM</a>
+          or
+          <a href="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm">MP4</a>
+          video.
+      </video>
+    </div>
+
+
+  </body>
+
+</html>
