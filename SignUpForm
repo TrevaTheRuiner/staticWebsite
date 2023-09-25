@@ -12,4 +12,3 @@
   </fieldset>
   <input type="checkbox" id="remember" name="remember" checked /><label for="remember">Remember Me?</label>
 </form>
-test
